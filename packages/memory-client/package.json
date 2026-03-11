@@ -1,0 +1,20 @@
+{
+  "name": "clawmemory-cli",
+  "version": "1.1.0",
+  "description": "ClawMemory CLI — decentralized AI agent memory on BNB Smart Chain",
+  "main": "src/index.js",
+  "bin": {
+    "clawmemory": "bin/cli.js"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^6.0.0",
+    "hypercore": "^10.0.0",
+    "hyperswarm": "^4.0.0",
+    "b4a": "^1.6.0"
+  },
+  "engines": { "node": ">=18.0.0" },
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/brettinhere/clawmemory" }
+}

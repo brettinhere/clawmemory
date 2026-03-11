@@ -1,0 +1,12 @@
+{
+  "name": "clawmemory-contracts",
+  "version": "1.0.0",
+  "description": "ClawMemory Protocol — Solidity smart contracts (BSC Mainnet)",
+  "devDependencies": {
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "@openzeppelin/contracts-upgradeable": "^5.0.0"
+  },
+  "license": "MIT"
+}
